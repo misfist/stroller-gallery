@@ -1,0 +1,15 @@
+// Page Header
+
+header.header {
+    
+    .header-bar {}
+    .header-content {
+        h1 {
+            &.logo {}
+        }
+        h2 {
+            &.tagline {}
+        }
+    }
+    #main-nav {}
+}
